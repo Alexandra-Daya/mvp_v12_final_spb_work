@@ -1,0 +1,8 @@
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+OUTPUTS_DIR = PROJECT_ROOT / "outputs"
+DEFAULT_SIMULATION_STEPS = 24
+DEFAULT_CLIENTS = 500
+DEFAULT_VEHICLES = 80
+DEFAULT_SEED = 42

@@ -1,0 +1,8 @@
+﻿metric,value
+refined_zones,394.0
+parent_zones,197.0
+avg_subzones_per_parent,2.0
+refined_od_rows,98928.0
+origin_subzones_in_od,394.0
+destination_subzones_in_od,394.0
+total_base_demand_per_hour,47.466332

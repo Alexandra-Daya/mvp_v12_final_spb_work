@@ -1,0 +1,11 @@
+﻿metric,value
+zones_in_geojson_contract,197.0
+od_rows_in_full_contract,30000.0
+origin_zones_in_od_contract,197.0
+destination_zones_in_od_contract,197.0
+zones_without_origin_demand,0.0
+zones_without_destination_demand,0.0
+total_base_demand_per_hour_after_floor,47.4663
+expected_orders_per_day_after_floor,1141.57
+origins_with_expected_daily_orders_below_1,90.0
+origins_boosted_by_coverage_floor,86.0

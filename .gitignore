@@ -1,0 +1,40 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Служебные файлы редакторов
+.vscode/
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+*.log
+
+# Большие и пересоздаваемые результаты
+outputs/
+reports/
+*.html
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Архивы
+*.zip
+*.rar
+*.7z

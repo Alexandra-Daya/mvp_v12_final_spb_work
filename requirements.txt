@@ -1,0 +1,9 @@
+# Core MVP uses only standard library.
+# Optional visualization scripts require matplotlib.
+matplotlib>=3.8
+
+pandas>=2.0
+geopandas>=0.14
+folium>=0.15
+branca>=0.7
+requests>=2.31
