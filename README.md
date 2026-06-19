@@ -14,13 +14,6 @@ outputs/final_maps_v4/interactive_final_spb_map_v4.html
 
 It uses the stable full-SPb/NIR1 calculation grid, restores the soft heatmap visibility of the stronger v9/v10-style maps, and keeps the grid readable without turning it into visual noise.
 
-## Why v4
-
-- v11 refined-grid is experimental: it can place centroid/heat points in water.
-- v12.1 vertical split-grid is experimental: it created too much visual striping.
-- v12.2/v3 was cleaner, but baseline/high_demand looked too empty.
-- v12.3/v4 keeps full-SPb/NIR1 as the main grid and makes all scenarios with `lost_demand_no_vehicle > 0` visibly render a heatmap.
-- Optional horizontal split-grid is visual only and is off by default.
 
 ## Setup
 
