@@ -2,7 +2,7 @@
 
 This is the final engineering MVP for a digital twin of the St Petersburg carsharing market.
 
-The model is a simulation based on reconstructed NIR1 OD demand, zones and flows. It does not use real operator carsharing transactions and must not be interpreted as an exact operator model.
+The model is a simulation based on reconstructed NIR1 OD demand, zones and flows. It does not use real operator carsharing transactions.
 
 ## Main result
 
